@@ -201,11 +201,10 @@ header h1 a, header h1 a:hover, header h1 a:visited { color: #fff; text-decorati
 }
 
 
-.logo.valencia {
+a.valencia {
   background: url(../img/logo_frontenders_valencia.png) no-repeat top left;
-    width: 480px;
+  width: 480px;
   height: 200px;
-  margin: 0 auto;
 
 }
 
