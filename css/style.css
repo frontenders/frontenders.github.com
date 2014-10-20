@@ -207,6 +207,7 @@ a.valencia {
   width: 240px;
   height: 100px;
   display: block;
+  margin: 0 auto;
 }
 
 footer {
